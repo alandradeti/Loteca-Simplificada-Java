@@ -1,6 +1,6 @@
 # Loteca-Simplificada-Java
 
-É um projeto de uma loteca simplicada
+É um projeto de uma loteca simplificada
 
 O algoritmo realiza:
 - A inserção do valor da loteca.
