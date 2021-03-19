@@ -6,6 +6,8 @@ package Loteca;
  * @author Ailton Lima de Andrade
  * @author Caio Cesar de Deus
  * @author Felipe Silva Lopes
+ * @author Amanda Ornelas
+ * @author Guilherme Ferreira
  */
 public class Apostador {
     public static int MAX_JOGOS = 10;  // Constante Máximo de Jogos
