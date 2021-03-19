@@ -8,6 +8,8 @@ import javax.swing.JOptionPane;
  * @author Ailton Lima de Andrade
  * @author Caio Cesar de Deus
  * @author Felipe Silva Lopes
+ * @author Amanda Ornelas
+ * @author Guilherme Ferreira
  *
  */
 public class Loteca {
@@ -1076,7 +1078,9 @@ public class Loteca {
                 + "Desenvolvedor(es):\n"
                 + "Ailton Lima de Andrade\n"
                 + "Caio Cesar de Deus\n"
-                + "Felipe Silva Lopes\n");
+                + "Felipe Silva Lopes\n"
+                + "Amanda Ornelas\n
+                + "Guilherme Ferreira");
         System.exit(0);
     }
 }
